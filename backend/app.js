@@ -20,7 +20,7 @@ app.use(
 app.use(express.json());
 app.use(express.urlencoded({extended : true}));
 
-app.use("api/reservation", ReservationRouter);
+app.use("/api/reservation", ReservationRouter);
 app.get("/", (req, res, next) => {
     return res.status(200).json({
         sucess : true,
