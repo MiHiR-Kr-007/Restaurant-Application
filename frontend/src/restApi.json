@@ -1,0 +1,98 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpeg",
+                "title": "ROASTED LAMB RUMP",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "CITRUS CURED SALMON",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.png",
+                "title": "PAN SEARED SEA BASS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "STUFFED STRAWBERRY",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "BEEF BURGER MEAL",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "MUSSELS SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}      
